@@ -1,7 +1,9 @@
+import Header from "./pages/Header"
+
 const page = () => {
   return (
 <>
-    <h1>Page</h1>   
+    <Header/>
 </>
     )
 }
